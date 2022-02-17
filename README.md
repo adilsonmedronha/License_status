@@ -11,18 +11,15 @@ ________________________________________________________________________________
 ## Contents
 
     1. Problem Description
-    2. Exploratory Data Analysis (EDA)
-    3. Data Cleaning
-        a. Missing Value Imputation
-        b. Outlier Detection
-    4. Data Imbalance
-    5. Data Encoding
-    6. Model Building
-        a. Random Forest
-        b. AdaBoost
-        c. XGBoost
-    7. Feature Importance
-    8. Hyperparameter Tuning
-        a. Random Search Optimization
-        b. Grid Search Optimization
-        c. Bayesian Optimization
+    2. Data Exploration
+            a. Variable Description
+            b. Data Cleansing
+            c. Data Transformation
+            d. Target Enconding
+            e. Imbalance Class
+            f. Over/Under Sampling
+    3. Train/Test Data Preparation
+            a. Data Imputation
+    4. Modeling
+            a. KNN 
+    5. Hyperparameter Tuning
